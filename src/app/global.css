@@ -18,3 +18,18 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
         monospace;
 }
+
+.MuiSnackbarContent-message {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pointer-events-children-none > * {
+    pointer-events: none;
+}
+
+.pointer-events-children-none > *:first-child {
+    pointer-events: auto;
+}
