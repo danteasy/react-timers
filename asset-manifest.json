@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-timers/static/css/main.dc2e1b7f.css",
-    "main.js": "/react-timers/static/js/main.5b418f93.js",
+    "main.js": "/react-timers/static/js/main.0b80526f.js",
     "static/js/885.8a9522eb.chunk.js": "/react-timers/static/js/885.8a9522eb.chunk.js",
     "static/media/timer-playback-end.mp3": "/react-timers/static/media/timer-playback-end.b0e01248f2b85b42ec97.mp3",
     "static/media/roboto-latin-500-normal.woff2": "/react-timers/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -63,11 +63,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/react-timers/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/react-timers/index.html",
     "main.dc2e1b7f.css.map": "/react-timers/static/css/main.dc2e1b7f.css.map",
-    "main.5b418f93.js.map": "/react-timers/static/js/main.5b418f93.js.map",
+    "main.0b80526f.js.map": "/react-timers/static/js/main.0b80526f.js.map",
     "885.8a9522eb.chunk.js.map": "/react-timers/static/js/885.8a9522eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc2e1b7f.css",
-    "static/js/main.5b418f93.js"
+    "static/js/main.0b80526f.js"
   ]
 }
